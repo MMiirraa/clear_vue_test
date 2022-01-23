@@ -6,3 +6,5 @@ const router = new VueRouter({
     { path: '/', component: App }
   ]
 })
+
+export default router
